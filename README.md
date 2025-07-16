@@ -29,6 +29,11 @@ Set zsh as default shell:
 chsh -s $(which zsh)
 ```
 
+Install duckbones theme in kitty.
+```bash
+kitty +kitten themes Duckbones
+```
+
 ## Install Oh My Zsh
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
