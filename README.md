@@ -1,5 +1,5 @@
 # Install FiraCode Nerd Font Mono
-1. Download the font from the Nerd Fonts GitHub release: 
+1. Download the FiraCoda faont from the Nerd Fonts GitHub release: (Scroll down and download .zip) 
    https://github.com/ryanoasis/nerd-fonts/releases
 
 2. Extract the font files and install them in your system's font directory.
